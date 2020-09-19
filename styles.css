@@ -1,0 +1,15 @@
+#sleepy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px 60px;
+}
